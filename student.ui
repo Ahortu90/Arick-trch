@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>867</width>
-    <height>692</height>
+    <width>866</width>
+    <height>681</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -47,7 +47,7 @@
      <string notr="true">background-color: rgb(55, 166, 166);</string>
     </property>
     <property name="currentIndex">
-     <number>2</number>
+     <number>5</number>
     </property>
     <widget class="QWidget" name="tab_1">
      <attribute name="title">
@@ -75,7 +75,7 @@
        <property name="geometry">
         <rect>
          <x>100</x>
-         <y>80</y>
+         <y>90</y>
          <width>181</width>
          <height>41</height>
         </rect>
@@ -189,10 +189,10 @@ background-color: rgb(170, 85, 0);</string>
       <widget class="QLabel" name="label_99">
        <property name="geometry">
         <rect>
-         <x>150</x>
+         <x>140</x>
          <y>10</y>
          <width>101</width>
-         <height>71</height>
+         <height>81</height>
         </rect>
        </property>
        <property name="text">
@@ -249,9 +249,9 @@ background-color: rgb(170, 85, 0);</string>
       <widget class="QLabel" name="l01">
        <property name="geometry">
         <rect>
-         <x>110</x>
-         <y>130</y>
-         <width>171</width>
+         <x>80</x>
+         <y>150</y>
+         <width>221</width>
          <height>21</height>
         </rect>
        </property>
@@ -260,6 +260,9 @@ background-color: rgb(170, 85, 0);</string>
        </property>
        <property name="text">
         <string>fill the followin to agian access</string>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
        </property>
       </widget>
      </widget>
@@ -742,9 +745,9 @@ color: rgb(255, 170, 0);</string>
      <widget class="QLabel" name="l12">
       <property name="geometry">
        <rect>
-        <x>350</x>
+        <x>260</x>
         <y>110</y>
-        <width>171</width>
+        <width>371</width>
         <height>31</height>
        </rect>
       </property>
@@ -754,6 +757,9 @@ font: 700 10pt &quot;Segoe UI&quot;;</string>
       </property>
       <property name="text">
        <string>Please Fill in the details</string>
+      </property>
+      <property name="alignment">
+       <set>Qt::AlignCenter</set>
       </property>
      </widget>
     </widget>
@@ -1162,6 +1168,26 @@ background-color: rgb(170, 85, 0);</string>
         <string>Update</string>
        </property>
       </widget>
+      <widget class="QLabel" name="l12_2">
+       <property name="geometry">
+        <rect>
+         <x>220</x>
+         <y>70</y>
+         <width>371</width>
+         <height>31</height>
+        </rect>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">color: rgb(255, 170, 0);
+font: 700 10pt &quot;Segoe UI&quot;;</string>
+       </property>
+       <property name="text">
+        <string>Please Fill in the details</string>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
      </widget>
     </widget>
     <widget class="QWidget" name="tab_5">
@@ -1172,7 +1198,7 @@ background-color: rgb(170, 85, 0);</string>
       <property name="geometry">
        <rect>
         <x>260</x>
-        <y>40</y>
+        <y>30</y>
         <width>321</width>
         <height>31</height>
        </rect>
@@ -1612,6 +1638,26 @@ background-color: rgb(170, 85, 0);</string>
        <string notr="true">background-color: rgb(255, 255, 255);</string>
       </property>
      </widget>
+     <widget class="QLabel" name="l12_3">
+      <property name="geometry">
+       <rect>
+        <x>250</x>
+        <y>80</y>
+        <width>371</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: rgb(255, 170, 0);
+font: 700 10pt &quot;Segoe UI&quot;;</string>
+      </property>
+      <property name="text">
+       <string>Please Fill in the details</string>
+      </property>
+      <property name="alignment">
+       <set>Qt::AlignCenter</set>
+      </property>
+     </widget>
     </widget>
     <widget class="QWidget" name="tab_6">
      <attribute name="title">
@@ -1632,8 +1678,8 @@ background-color: rgb(170, 85, 0);</string>
       <widget class="QLabel" name="label_57">
        <property name="geometry">
         <rect>
-         <x>50</x>
-         <y>50</y>
+         <x>60</x>
+         <y>30</y>
          <width>281</width>
          <height>31</height>
         </rect>
@@ -1827,7 +1873,7 @@ background-color: rgb(170, 85, 0);</string>
        <property name="geometry">
         <rect>
          <x>30</x>
-         <y>50</y>
+         <y>40</y>
          <width>351</width>
          <height>31</height>
         </rect>
@@ -2796,10 +2842,10 @@ color: rgb(255, 255, 255);</string>
      <widget class="QLabel" name="label_198">
       <property name="geometry">
        <rect>
-        <x>370</x>
+        <x>360</x>
         <y>90</y>
-        <width>71</width>
-        <height>16</height>
+        <width>81</width>
+        <height>20</height>
        </rect>
       </property>
       <property name="text">
@@ -3137,7 +3183,7 @@ font: 700 22pt &quot;Segoe UI&quot;;</string>
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>867</width>
+     <width>866</width>
      <height>26</height>
     </rect>
    </property>
